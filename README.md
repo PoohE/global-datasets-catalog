@@ -1,6 +1,6 @@
-# Каталог глобальных геопространственных покрытий для анализа пожарной опасности
+# Каталог глобальных геопространственных покрытий природных факторов
 
-**Global Geospatial Dataset Catalog for Fire Risk Analysis**
+**Global Geospatial Dataset Catalog of Natural Factors**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
@@ -9,14 +9,14 @@
 
 ## О каталоге / About
 
-**RU.** Систематизированный каталог открытых глобальных геопространственных покрытий, применимых для анализа пожарной опасности и смежных экологических задач. Охватывает рельеф, растительность, землепользование, климат, гидрологию, почвы, антропогенную нагрузку и данные пожарного мониторинга.
+**RU.** Систематизированный каталог открытых глобальных геопространственных покрытий по природным факторам, динамике ландшафтов, биоразнообразию и охране природы. Охватывает рельеф, растительность, землепользование, климат, гидрологию, почвы, антропогенную нагрузку, пожарный мониторинг и охраняемые территории.
 
-Составлен в Институте географии РАН в рамках работ по моделированию пожарной опасности.
+Составлен в Институте географии РАН. Предназначен для исследователей, работающих над задачами оценки динамики ландшафтов, угроз лесам и биоразнообразию, природоохранного планирования.
 Каждая запись содержит: название продукта, тематическую группу, год выпуска, пространственное разрешение, наличие в Google Earth Engine, ссылку на источник и DOI для цитирования.
 
-**EN.** A curated catalog of open global geospatial datasets applicable to fire risk analysis and related ecological tasks. Covers terrain, vegetation, land cover, climate, hydrology, soils, anthropogenic factors, and fire monitoring products.
+**EN.** A curated catalog of open global geospatial datasets covering natural factors, landscape dynamics, biodiversity, and nature conservation. Includes terrain, vegetation, land cover, climate, hydrology, soils, anthropogenic factors, fire monitoring, and protected areas.
 
-Compiled at the Institute of Geography RAS as part of fire danger modelling research.
+Compiled at the Institute of Geography RAS. Designed for researchers working on landscape dynamics assessment, forest and biodiversity threat analysis, and conservation planning.
 Each entry includes: product name, thematic group, release year, spatial resolution, Google Earth Engine availability, source URL, and citation DOI.
 
 ---
@@ -192,9 +192,9 @@ Kobayashi, T., Tateishi, R., Alsaaideh, B., Sharma, R.C., Wakaizumi, T., Miyamot
 
 ## Как цитировать / How to cite
 
-Пуреховский А.Ж., Институт географии РАН (2026). *Каталог глобальных геопространственных покрытий для анализа пожарной опасности*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Пуреховский А.Ж., Институт географии РАН (2026). *Каталог глобальных геопространственных покрытий природных факторов*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
-Purekhovsky A.Zh., Institute of Geography RAS (2026). *Global Geospatial Dataset Catalog for Fire Risk Analysis*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Purekhovsky A.Zh., Institute of Geography RAS (2026). *Global Geospatial Dataset Catalog of Natural Factors*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
 ---
 
