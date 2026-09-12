@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this catalog, please cite it as below."
+type: dataset
+title: "Каталог глобальных геопространственных покрытий для анализа пожарной опасности"
+title-en: "Global Geospatial Dataset Catalog for Fire Risk Analysis"
+authors:
+  - family-names: Пуреховский
+    given-names: Андрей Жоржевич
+    alias: Purekhovsky Andrey Zh.
+    affiliation: "Институт географии РАН / Institute of Geography RAS"
+    email: down.pooh@gmail.com
+  - name: "Институт географии РАН / Institute of Geography RAS"
+version: "1.0.0"
+date-released: "2026-09-13"
+license: CC-BY-4.0
+repository-code: "https://github.com/PoohE/global-datasets-catalog"
+doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - global datasets
+  - geospatial
+  - fire risk
+  - land cover
+  - remote sensing
+  - GEE
+  - catalog
