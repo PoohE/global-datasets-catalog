@@ -3,7 +3,7 @@
 **Global Geospatial Dataset Catalog of Natural Factors**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22730919.svg)](https://doi.org/10.5281/zenodo.22730919)
 
 ---
 
@@ -192,9 +192,9 @@ Kobayashi, T., Tateishi, R., Alsaaideh, B., Sharma, R.C., Wakaizumi, T., Miyamot
 
 ## Как цитировать / How to cite
 
-Пуреховский А.Ж., Институт географии РАН (2026). *Каталог глобальных геопространственных покрытий природных факторов*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Пуреховский А.Ж., Институт географии РАН (2026). *Каталог глобальных геопространственных покрытий природных факторов*. Zenodo. https://doi.org/10.5281/zenodo.22730919
 
-Purekhovsky A.Zh., Institute of Geography RAS (2026). *Global Geospatial Dataset Catalog of Natural Factors*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Purekhovsky A.Zh., Institute of Geography RAS (2026). *Global Geospatial Dataset Catalog of Natural Factors*. Zenodo. https://doi.org/10.5281/zenodo.22730919
 
 ---
 
