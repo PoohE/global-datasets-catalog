@@ -190,6 +190,58 @@ Kobayashi, T., Tateishi, R., Alsaaideh, B., Sharma, R.C., Wakaizumi, T., Miyamot
 
 ---
 
+## Как устроено и как пользоваться / How it works
+
+**RU.** Каталог — один документ: этот `README.md`. Кода, зависимостей и окружения нет, ставить
+и запускать нечего; записи читаются глазами или копируются в свою таблицу. Записи сгруппированы
+по шести тематическим разделам (физико-географические условия, растительность и горючие
+материалы, климат и погода, лесоизменения, антропогенное влияние, пожарный мониторинг); внутри
+раздела — таблица по полям, описанным выше. Рабочий порядок подбора покрытия: найти тематический
+раздел → сверить пространственное разрешение и период охвата с задачей → проверить столбец
+«Есть в GEE» (если да, продукт считается прямо в Google Earth Engine, скачивать не нужно) →
+перейти по ссылке на источник за условиями использования → процитировать по DOI из столбца
+«Ссылка для цитирования», а не по этому каталогу.
+
+**EN.** The catalog is a single document — this `README.md`. There is no code, no dependencies
+and nothing to install. Entries are grouped into six thematic sections; within a section a table
+follows the field description above. Workflow: pick the section, check resolution and coverage
+period against your task, check the Earth Engine column (if yes, the product can be processed in
+GEE without downloading), follow the source link for the terms of use, and cite the dataset by
+its own DOI rather than by this catalog.
+
+---
+
+## Границы: чем каталог не является / Scope and limits
+
+**RU.**
+
+- Это **указатель, а не хранилище**: ни одного пикселя данных здесь нет, всё — ссылки на порталы
+  правообладателей. Лицензия CC BY 4.0 относится к описаниям каталога, а не к самим покрытиям:
+  условия использования каждого продукта смотреть у его правообладателя.
+- **Только глобальные открытые покрытия по природным факторам.** Региональные и национальные
+  наборы, коммерческие данные, снимки по заказу и социально-экономическая статистика в каталог
+  не входят.
+- **Срез, а не живая база.** Год выпуска и столбец «Актуальные» фиксируют состояние на момент
+  составления; продукты обновляются и снимаются с публикации независимо от нас. Перед работой
+  проверять ссылку на источник. Версия записей и дата среза — в DOI версии на Zenodo.
+- **Разрешение и период охвата приведены как заявлено авторами продукта**, без независимой
+  проверки качества и без оценки точности для конкретного региона — такая проверка остаётся за
+  исследователем.
+- **Полноты по определению нет:** каталог собран под задачи оценки динамики ландшафтов, угроз
+  лесам и биоразнообразию и природоохранного планирования. Отсутствие продукта в каталоге не
+  означает, что его нет.
+- Предложение дополнить или поправить запись — через Issues репозитория.
+
+**EN.** This is an index, not a data store: the catalog holds links, not pixels, and CC BY 4.0
+covers the descriptions only — each dataset keeps its own licence. Scope is limited to open
+global datasets on natural factors; regional, commercial and socio-economic data are out of
+scope. It is a snapshot rather than a live database: resolution and coverage are reported as
+stated by the data authors, without independent quality assessment, and products change
+independently of us — follow the source link before relying on an entry. Completeness is not
+claimed. Corrections and additions are welcome via Issues.
+
+---
+
 ## Как цитировать / How to cite
 
 Пуреховский А.Ж., Институт географии РАН (2026). *Каталог глобальных геопространственных покрытий природных факторов*. Zenodo. https://doi.org/10.5281/zenodo.22730919
